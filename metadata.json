@@ -1,0 +1,6 @@
+{
+  "name": "DayRoute — Маршрут Одного Дня",
+  "description": "Персоналізований генератор ідеального дня у незнайомому місті за бюджетом і настроєм. Готовий для GitHub Pages з підтримкою Gemini AI та офлайн режиму.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
